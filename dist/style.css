@@ -123,4 +123,9 @@ width: 100%;
     border-left: none;
     padding-top: 2rem;
 }
+
+
+#main-content .content-area #navigation ul {
+    border-bottom: 2px solid black;
+}
 }
